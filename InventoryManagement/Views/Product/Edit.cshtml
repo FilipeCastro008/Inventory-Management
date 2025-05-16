@@ -1,0 +1,75 @@
+﻿@model InventoryManagement.Domain.Entities.Product;
+
+@{
+    ViewData["Title"] = "Edit Product";
+}
+
+<h1>Edit Product</h1>
+
+<form asp-action="EditItem">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input type="text" class="form-control" id="priceInput" name="Price"
+               value="@Model.Price" autocomplete="off" inputmode="numeric" />
+
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <input type="submit" value="Save" class="btn btn-success" />
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>
+
+<script>
+    const priceInput = document.getElementById('priceInput');
+    let rawNumbers = '';
+
+    priceInput.addEventListener('keydown', function (e) {
+        if (e.key.match(/^\d$/)) {
+            rawNumbers += e.key;
+            e.preventDefault();
+        } else if (e.key === 'Backspace') {
+            rawNumbers = rawNumbers.slice(0, -1);
+            e.preventDefault();
+        } else if (e.ctrlKey || e.metaKey || e.key === 'Tab') {
+            return; 
+        } else {
+            e.preventDefault(); 
+        }
+
+        updateInputValue();
+    });
+
+    function updateInputValue() {
+        let value = rawNumbers.padStart(3, '0');
+        let cents = value.slice(-2);
+        let reais = value.slice(0, -2);
+
+        reais = reais.replace(/\B(?=(\d{3})+(?!\d))/g, '.');
+
+        priceInput.value = `R$ ${reais},${cents}`;
+    }
+
+    window.addEventListener('DOMContentLoaded', () => {
+            window.addEventListener('DOMContentLoaded', () => {
+        const initial = priceInput.value;
+
+        if (initial) {
+            const cleaned = initial.replace(/[^0-9]/g, '');
+            rawNumbers = cleaned;
+            updateInputValue();
+        }
+    });
+
+    });
+</script>

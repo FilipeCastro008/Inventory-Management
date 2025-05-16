@@ -1,0 +1,98 @@
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\bin\Debug\net9.0\appsettings.json
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\bin\Debug\net9.0\Inventory management.staticwebassets.runtime.json
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\bin\Debug\net9.0\Inventory management.staticwebassets.endpoints.json
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\bin\Debug\net9.0\Inventory management.exe
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\bin\Debug\net9.0\Inventory management.deps.json
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\bin\Debug\net9.0\Inventory management.runtimeconfig.json
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\bin\Debug\net9.0\Inventory management.dll
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\bin\Debug\net9.0\Inventory management.pdb
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\Inventory management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\Inventory management.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\Inventory management.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\Inventory management.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\Inventory management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\Inventory management.RazorAssemblyInfo.cache
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\Inventory management.RazorAssemblyInfo.cs
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\scopedcss\bundle\Inventory management.styles.css
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\scopedcss\projectbundle\Inventory management.bundle.scp.css
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\l7wicquz65-b9sayid5wm.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\q2e2tjqks8-61n19gt1b8.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\uyg170muzp-xtxxf3hu2r.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\ps4qr82ao8-bqjiyaj88i.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\ys966nca2h-c2jlpeoesf.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\15zp22l4e6-erw9l3u2r3.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\erxl045er7-aexeepp0ev.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\9x79zmtfdv-d7shbmvgxk.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\is9zq5761l-ausgxo2sd3.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\txkjxndtjd-k8d9w2qqmf.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\0k1sw7o079-cosvhxvwiu.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\6amdb90cju-ub07r2b239.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\2f7hbvy885-fvhpjtyr6v.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\7v5x7lqio2-b7pk76d08c.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\8y3935qrcc-fsbi9cje9m.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\itga90b8ga-rzd6atqjts.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\4scdpng6cg-ee0r1s7dh0.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\snhq1ooxor-dxx9fxp4il.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\7jh30zo9yj-jd9uben2k1.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\u6u2d250zk-khv3u5hwcm.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\a8ofio6lzd-r4e9w2rdcm.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\fngh0ieq3x-lcd1t2u6c8.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\tbd43fosbn-c2oey78nd0.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\jmztonbxid-tdbxkamptv.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\41t40ngj1b-j5mq2jizvt.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\clp6s3189p-06098lyss8.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\q3ee1afeqn-nvvlpmu67g.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\q78qhf8gzb-s35ty4nyc5.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\vtb2h5z5yt-pj5nd1wqec.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\agewz6wwem-46ein0sx1k.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\ay5k3vku92-v0zj4ognzu.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\70w3o0f0cb-37tfw0ft22.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\4rv4pwaljc-hrwsygsryq.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\89u2cd43wq-pk9g2wxc8p.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\huypcy6rgp-ft3s53vfgj.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\ppgqjh0cfs-6cfz1n2cew.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\103iy1gopp-6pdc2jztkx.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\fefilkyq1e-493y06b0oq.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\pzne3kv4ii-iovd86k7lj.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\x167ow5i8z-vr1egmr9el.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\auclmvbva9-kbrnm935zg.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\xzijwxkrxy-jj8uyg4cgr.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\qwxg8ht7eu-y7v9cxd14o.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\054gmsysjf-notf2xhcfb.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\57xyp4kzi3-h1s4sie4z3.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\tm7uo3wtc8-63fj8s7r0e.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\277v635f7c-0j3bgjxly4.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\reb205tliw-47otxtyo56.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\gs9epnrmw7-4v8eqarkd7.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\zqb8vtgfqj-356vix0kms.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\3o3p6ja90l-83jwlth58m.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\xgz5e8escj-mrlpezrjn3.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\suyk1x2ieq-lzl9nlhx6b.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\pqq59k6xwp-ag7o75518u.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\4u587ow7s6-x0q3zqp4vz.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\0phhyz332z-0i3buxo5is.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\olfdfpr5h2-o1o13a6vjx.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\24clfp1qyq-ttgo8qnofa.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\daedcp4xat-2z0ns9nrw6.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\nbq60aqklo-muycvpuwrr.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\8wdzz8x6dc-87fc7y1x7t.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\oybyvslrkr-mlv21k5csn.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\jm4ka9ery0-4rp60pk2cm.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\compressed\02vxcbukgo-4rp60pk2cm.gz
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\staticwebassets\msbuild.Inventory management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\staticwebassets\msbuild.Inventory management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\staticwebassets\msbuild.build.Inventory management.props
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Inventory management.props
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Inventory management.props
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\Inventory management.dll
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\refint\Inventory management.dll
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\Inventory management.pdb
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\Inventory management.genruntimeconfig.cache
+C:\Users\Filipe\source\repos\Inventory management\Inventory management\obj\Debug\net9.0\ref\Inventory management.dll

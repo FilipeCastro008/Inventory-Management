@@ -85,6 +85,6 @@ Os testes utilizam:
 
 - Ao adicionar um novo produto, o sistema valida o nome, descrição e preço.
 - O preço pode ser inserido como string (`"R$ 1.234,56"`) e será convertido automaticamente.
-- Produtos com estoque 0 não podem ser removidos.
+- Apenas produtos com estoque 0 podem ser removidos.
 
 ---# Inventory-Management
